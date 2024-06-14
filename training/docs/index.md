@@ -1,6 +1,12 @@
-# App Training Planner
+# Welcome to Family Feeder
 
-Welcome to the App Training Planner! This guide provides structured training modules to help you understand and utilize our app effectively.
+![Family Feeder Logo](../images/logo.png)
+
+Welcome to the Family Feeder App Training Planner! This guide provides structured training modules to help you understand and utilize our app effectively.
+
+## Overview
+
+The Family Feeder app is designed to help map families in need of food donations and connect them with donors. This documentation will guide you through using the app, from navigating the interface to making donations and managing aid.
 
 ## Modules Overview
 
@@ -11,6 +17,7 @@ Welcome to the App Training Planner! This guide provides structured training mod
 5. [Tracking Support Provided](module5.md)
 6. [Aid Agency Fund Management](module6.md)
 7. [Continuous Learning and Updates](module7.md)
+8. [Training Program Prospectus](prospectus.md)
 
 ---
 
