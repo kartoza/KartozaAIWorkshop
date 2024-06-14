@@ -14,4 +14,9 @@
 	* Order the staff by name length
 	* Estimate the nationality of each staff member based on their name
 	* Show the ISO code of each person next to their name
-* 
+* Planning a product (workshop activity)
+* Jupyter Prototyping
+* Co-Pilot
+	* adding a test to your code
+	* implementing a function
+ 
