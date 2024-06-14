@@ -1,0 +1,17 @@
+site_name: App Training Planner
+docs_dir: docs
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Prospectus: prospectus.md
+  - Introduction to the App: module1.md
+  - Basic Navigation and User Interface: module2.md
+  - Selecting an Area: module3.md
+  - Payment Process: module4.md
+  - Tracking Support Provided: module5.md
+  - Aid Agency Fund Management: module6.md
+  - Continuous Learning and Updates: module7.md
+

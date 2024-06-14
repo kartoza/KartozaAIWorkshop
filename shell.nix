@@ -31,6 +31,13 @@ in pkgs.mkShell rec {
     pythonPackages.jupyter
     pythonPackages.ipython
     pythonPackages.tabulate    
+    pythonPackages.fiona
+    pythonPackages.pyogrio
+    pythonPackages.jinja2
+    pythonPackages.geopandas 
+    pythonPackages.pandas 
+    pythonPackages.matplotlib 
+    pythonPackages.folium
     # For printing from jupyter
     # The list after scheme-small and latex are all .sty latex
     # modules that are needed for jupyter printing to work. 
